@@ -6,6 +6,9 @@ public class Bobur {
 		System.out.println("Hi EveryOne!!!");
 		System.out.println("Hi Bobur ,Muhammt ");
 		System.out.println("Hi Bobur ,ishlar qaley endi :)");
+		for (int i = 0; i < args.length; i++) {
+			System.out.println("Another change");
+		}
 	} 
 	
 }
