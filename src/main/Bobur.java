@@ -9,6 +9,7 @@ public class Bobur {
 		for (int i = 0; i < args.length; i++) {
 			System.out.println("Another change");
 			
+			System.out.println("update");
 		}
 	} 
 	
